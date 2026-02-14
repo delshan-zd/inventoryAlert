@@ -109,8 +109,6 @@
     <div class="flex flex-col justify-between gap-5 border-b border-gray-200 px-5 py-4 sm:flex-row sm:items-center dark:border-gray-800">
         <div>
             <h3 class="text-lg font-semibold text-gray-800 dark:text-white/90">Products List
-                <span class="inline-flex items-center px-2 py-1 ring-1 ring-inset ring-danger-subtle text-fg-danger-strong text-sm font-medium rounded bg-danger-soft"
-                      style="color: darkred; background-color: lightpink">Low stock</span>
             </h3>
             <p class="text-sm text-gray-500 dark:text-gray-400">
                 Track your store's progress to boost your sales.

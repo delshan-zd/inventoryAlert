@@ -19,7 +19,7 @@ A real-time inventory alert system built with Laravel 12 that tracks product sto
 ## 📸 Screenshots
 
 ### Products List
-![Products List](screenshots/products_list.png)
+![Products List](screenshots/products_List.png)
 
 
 ### Transactions Report
